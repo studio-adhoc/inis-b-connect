@@ -1,0 +1,803 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Initiativen Berlin Connector\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-18 12:22+0100\n"
+"PO-Revision-Date: 2020-02-18 12:22+0100\n"
+"Last-Translator: \n"
+"Language-Team: Initiativen Berlin Connector <m.hengge@studioadhoc.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;gettext;gettext_noop;__;_;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inis-b-connect.php:32
+msgid "city-topics"
+msgstr "stadtthemen"
+
+#: ../inis-b-connect.php:37
+msgid "City Topics"
+msgstr "Stadtthemen"
+
+#: ../inis-b-connect.php:38
+msgid "City Topic"
+msgstr "Stadtthema"
+
+#: ../inis-b-connect.php:39
+msgid "Search City Topics"
+msgstr "Stadtthemen durchsuchen"
+
+#: ../inis-b-connect.php:40
+msgid "All City Topics"
+msgstr "Alle Stadtthemen"
+
+#: ../inis-b-connect.php:41
+msgid "Parent City Topic"
+msgstr "Übergeordnetes Stadtthema"
+
+#: ../inis-b-connect.php:42
+msgid "Parent City Topic:"
+msgstr "Übergeordnetes Stadtthema:"
+
+#: ../inis-b-connect.php:43
+msgid "Edit Topic"
+msgstr "Thema bearbeiten"
+
+#: ../inis-b-connect.php:44
+msgid "Update Topic"
+msgstr "Thema aktualisieren"
+
+#: ../inis-b-connect.php:45
+msgid "Add New Topic"
+msgstr "Neues Thema hinzufügen"
+
+#: ../inis-b-connect.php:46
+msgid "New Topic Name"
+msgstr "Neuer Themenname"
+
+#: ../inis-b-connect.php:47
+msgid "Topics"
+msgstr "Themen"
+
+#: ../inis-b-connect.php:216
+msgid "Partner Connection"
+msgstr "Verbindung Partner Server"
+
+#: ../inis-b-connect.php:228
+msgid "Partner Connection active"
+msgstr "Verbindung zum Partner-Server aktiv"
+
+#: ../inis-b-connect.php:242
+msgid "Partner Server URL"
+msgstr "Partner Server URL"
+
+#: ../inis-b-connect.php:243
+msgid "Server URL without trailing slash"
+msgstr "Server URL ohne Slash am Ende der Adresse"
+
+#: ../inis-b-connect.php:257
+msgid "Imprint URL"
+msgstr "URL zum Impressum"
+
+#: ../inis-b-connect.php:258
+msgid "Please  enter the URL to your imprint"
+msgstr "Bitte gib die URL zum Impressum der Seite an"
+
+#: ../inis-b-connect.php:272
+msgid "Liability for editorial content"
+msgstr "Verantwortlich für den Inhalt"
+
+#: ../inis-b-connect.php:289
+msgid "Partner Color 1"
+msgstr "Partner Farbe 1"
+
+#: ../inis-b-connect.php:306
+msgid "Partner Color 2"
+msgstr "Partner Farbe 2"
+
+#~ msgid "Uppsss! The content is missing."
+#~ msgstr "Achtung: Diesen Inhalt gibt es wohl nicht."
+
+#~ msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+#~ msgstr "Entschuldigen sie bitte, aber das was sie gesucht haben, konnte nicht gefunden werden. Nutzen sie doch die Suchfunktion, um das Gewünschte zu finden."
+
+#~ msgid "Archive – %s"
+#~ msgstr "Archiv – %s"
+
+#~ msgid "< Newer Articles"
+#~ msgstr "< Neuere Artikel"
+
+#~ msgid "Older Articles >"
+#~ msgstr "Ältere Artikel >"
+
+#~ msgid "Author – %s"
+#~ msgstr "Autor – %s"
+
+#~ msgid "Category – %s"
+#~ msgstr "Kategorie - %s"
+
+#~ msgid "Your comment will be reviewed."
+#~ msgstr "Dein Kommentar wartet auf Überprüfung."
+
+#~ msgid "Reply"
+#~ msgstr "Antworten"
+
+#~ msgid "Pingback:"
+#~ msgstr "Pingback:"
+
+#~ msgid "Edit"
+#~ msgstr "Bearbeiten"
+
+#~ msgid "This post is protected."
+#~ msgstr "Dieser Artikel ist passwortgeschützt."
+
+#~ msgid "Write a comment"
+#~ msgstr "Schreibe einen Kommentar"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 Kommentar"
+
+#~ msgid "% Comments"
+#~ msgstr "% Kommentare"
+
+#~ msgid "<div class=\"page-link\">Pages: "
+#~ msgstr "<div class=\"page-link\">Seiten: "
+
+#~ msgid "j. F Y"
+#~ msgstr "j. F Y"
+
+#~ msgid "Categories"
+#~ msgstr "Kategorien"
+
+#~ msgid "<span class=\"tag-links\"><strong>Tags:</strong> "
+#~ msgstr "<span class=\"tag-links\"><strong>Tags:</strong> "
+
+#~ msgid "Read more >"
+#~ msgstr "Weiterlesen >"
+
+#~ msgid "Main Navigation"
+#~ msgstr "Hauptnavigation"
+
+#~ msgid "Sidebar Blog"
+#~ msgstr "Sidebar Blog"
+
+#~ msgid "Sidebar Footer"
+#~ msgstr "Sidebar Footer"
+
+#~ msgid "Next &rsaquo;"
+#~ msgstr "Nächstes &rsaquo;"
+
+#~ msgid "&lsaquo; Back"
+#~ msgstr "&lsaquo; Vorheriges"
+
+#~ msgid "Picture"
+#~ msgstr "Bild"
+
+#~ msgid "of"
+#~ msgstr "von"
+
+#~ msgid "Close"
+#~ msgstr "Schließen"
+
+#~ msgid "Your browser is too old :-)"
+#~ msgstr "Dein Browser ist zu alt :-)"
+
+#~ msgid "events"
+#~ msgstr "termine"
+
+#~ msgid "event-category"
+#~ msgstr "termin-kategorie"
+
+#~ msgid "members"
+#~ msgstr "mitglieder"
+
+#~ msgid "Members"
+#~ msgstr "Mitglieder"
+
+#~ msgid "Member"
+#~ msgstr "Mitglied"
+
+#~ msgid "Add new"
+#~ msgstr "Erstellen"
+
+#~ msgid "Add new member"
+#~ msgstr "Neues Mitglied hinzufügen"
+
+#~ msgid "New Member"
+#~ msgstr "Neues Mitglied"
+
+#~ msgid "All Members"
+#~ msgstr "Alle Mitglieder"
+
+#~ msgid "View"
+#~ msgstr "Ansehen"
+
+#~ msgid "Search Members"
+#~ msgstr "Mitglieder durchsuchen"
+
+#~ msgid "Nothing found"
+#~ msgstr "Keine Beiträge gefunden"
+
+#~ msgid "No members found in Trash"
+#~ msgstr "Keine Mitglieder im Papierkorb gefunden"
+
+#~ msgid "Event Categories"
+#~ msgstr "Terminkategorien"
+
+#~ msgid "Event Category"
+#~ msgstr "Terminkategorie"
+
+#~ msgid "Search Event Categories"
+#~ msgstr "Terminkategorien durchsuchen"
+
+#~ msgid "All Event Categories"
+#~ msgstr "Alle Terminkategorien"
+
+#~ msgid "Parent Event Category"
+#~ msgstr "Übergeordnete Terminkategorie"
+
+#~ msgid "Parent Event Category:"
+#~ msgstr "Übergeordnete Terminkategorie:"
+
+#~ msgid "Edit Category"
+#~ msgstr "Kategorie bearbeiten"
+
+#~ msgid "Update Category"
+#~ msgstr "Kategorie aktualisieren"
+
+#~ msgid "Add New Category"
+#~ msgstr "Neue Kategorie hinzufügen"
+
+#~ msgid "New Category Name"
+#~ msgstr "Neuer Kategoriename"
+
+#~ msgid "Events"
+#~ msgstr "Termine"
+
+#~ msgid "Event"
+#~ msgstr "Termin"
+
+#~ msgid "Add new event"
+#~ msgstr "Neuen Termin erstellen"
+
+#~ msgid "New Event"
+#~ msgstr "Neuer Termin"
+
+#~ msgid "All Events"
+#~ msgstr "Alle Termine"
+
+#~ msgid "Search Events"
+#~ msgstr "Termine durchsuchen"
+
+#~ msgid "No events found in Trash"
+#~ msgstr "Keine Termine im Papierkorb gefunden"
+
+#~ msgid "Menu"
+#~ msgstr "Menü"
+
+#~ msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>."
+#~ msgstr "<span class=\"meta-prep meta-prep-entry-date\">Veröffentlicht am</span> <span class=\"post-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> mit <a href=\"%3$s\" title=\"Bild in voller Größe\">%4$s &times; %5$s</a> im Artikel <a href=\"%6$s\" title=\"Zurück zu %7$s\" rel=\"gallery\">%7$s</a>."
+
+#~ msgid "&laquo; Next Image"
+#~ msgstr "&laquo; Neuere Artikel"
+
+#~ msgid "Previous Image &raquo;"
+#~ msgstr "Ältere Artikel &raquo;"
+
+#~ msgid "Banner Text"
+#~ msgstr "Bannertext"
+
+#~ msgid "Theme Options"
+#~ msgstr "Theme Optionen"
+
+#~ msgid "Theme Font"
+#~ msgstr "Theme Schriftart"
+
+#~ msgid "Theme Color"
+#~ msgstr "Theme Farbe"
+
+#~ msgid "Lighter Color for Underline"
+#~ msgstr "Unterstreichungen aufhellen"
+
+#~ msgid "Theme Navi Color"
+#~ msgstr "Hintergrundfarbe für die Navigation"
+
+#~ msgid "Theme Banner Color"
+#~ msgstr "Hintergrundfarbe für das Banner"
+
+#~ msgid "Header Image"
+#~ msgstr "Header Bild"
+
+#~ msgid "Header Text Color"
+#~ msgstr "Header Textfarbe"
+
+#~ msgid "Black"
+#~ msgstr "Schwarz"
+
+#~ msgid "White"
+#~ msgstr "Weiß"
+
+#~ msgid "Header Background Color"
+#~ msgstr "Header Hintergrundfarbe"
+
+#~ msgid "Activate Events"
+#~ msgstr "Termine aktivieren"
+
+#~ msgid "Activate Members"
+#~ msgstr "Mitglieder aktivieren"
+
+#~ msgid "Translation"
+#~ msgstr "Übersetzung"
+
+#~ msgid "Active Translation"
+#~ msgstr "Aktive Übersetzung"
+
+#~ msgid "Custom Site Title"
+#~ msgstr "Individueller Seitentitel"
+
+#~ msgid "Custom Post Types"
+#~ msgstr "Custom Post Types"
+
+#~ msgid "Header"
+#~ msgstr "Header"
+
+#~ msgid "Top"
+#~ msgstr "Nach oben"
+
+#~ msgid "<strong>Your browser is too old!</strong><br />Please update your browser"
+#~ msgstr "<strong>Ihr Browser ist zu alt!</strong><br />Bitte updaten Sie Ihren Browser"
+
+#~ msgid "Please choose..."
+#~ msgstr "Bitte auswählen..."
+
+#~ msgid "Share"
+#~ msgstr "Teilen"
+
+#~ msgid "Permalink"
+#~ msgstr "Permalink"
+
+#~ msgid "Mail"
+#~ msgstr "E-Mail"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Search Results <span class=\"sub-title\">%s</span>"
+#~ msgstr "Suchergebnisse <span class=\"sub-title\">%s</span>"
+
+#~ msgid "Nothing Found"
+#~ msgstr "Keine Einträge"
+
+#~ msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+#~ msgstr "Entschuldigen sie, aber es konnte nichts gefunden werden. Versuchen sie es mit anderen Schlüsselwörtern erneut."
+
+#~ msgid "Tagged as - %s"
+#~ msgstr "Getagged als - %s"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Kommentare sind geschlossen."
+
+#~ msgid "Set ID of translated site"
+#~ msgstr "Wähle die Seite an, die übersetzt werden soll"
+
+#~ msgid "Translated site"
+#~ msgstr "Übersetzte Seite"
+
+#~ msgid "Service Navigation"
+#~ msgstr "Servicenavigation"
+
+#~ msgid "exhibitions"
+#~ msgstr "ausstellungen"
+
+#~ msgid "locations"
+#~ msgstr "orte"
+
+#~ msgid "Locations"
+#~ msgstr "Orte"
+
+#~ msgid "Location"
+#~ msgstr "Ort"
+
+#~ msgid "Search Locations"
+#~ msgstr "Orte durchsuchen"
+
+#~ msgid "All Locations"
+#~ msgstr "Alle Orte"
+
+#~ msgid "Parent Location:"
+#~ msgstr "Übergeordneter Ort:"
+
+#~ msgid "Edit Location"
+#~ msgstr "Ort bearbeiten"
+
+#~ msgid "Update Location"
+#~ msgstr "Ort aktualisieren"
+
+#~ msgid "Exhibitions"
+#~ msgstr "Ausstellungen"
+
+#~ msgid "Exhibition"
+#~ msgstr "Ausstellung"
+
+#~ msgid "Add new exhibition"
+#~ msgstr "Neue Ausstellung hinzufügen"
+
+#~ msgid "New Exhibition"
+#~ msgstr "Neue Ausstellung"
+
+#~ msgid "All Exhibitions"
+#~ msgstr "Alle Ausstellungen"
+
+#~ msgid "Search Exhibitions"
+#~ msgstr "Ausstellungen durchsuchen"
+
+#~ msgid "No exhibitions found in Trash"
+#~ msgstr "Keine Ausstellungen im Papierkorb gefunden"
+
+#~ msgid "Social Navigation"
+#~ msgstr "Social Navigation"
+
+#~ msgid "Products"
+#~ msgstr "Produkte"
+
+#~ msgid "Product"
+#~ msgstr "Produkt"
+
+#~ msgid "Add new product"
+#~ msgstr "Neues Produkt hinzufügen"
+
+#~ msgid "New Product"
+#~ msgstr "Neues Produkt"
+
+#~ msgid "All Products"
+#~ msgstr "Alle Produkte"
+
+#~ msgid "Search Products"
+#~ msgstr "Produkte durchsuchen"
+
+#~ msgid "No products found in Trash"
+#~ msgstr "Keine Produkte im Papierkorb gefunden"
+
+#~ msgid "Close layer"
+#~ msgstr "Layer schließen"
+
+#~ msgid "Open layer"
+#~ msgstr "Layer öffnen"
+
+#~ msgid "News"
+#~ msgstr "Aktuelles"
+
+#~ msgid "< Back to overview"
+#~ msgstr "< Zurück zur Übersicht"
+
+#~ msgid "Sidebar Page"
+#~ msgstr "Sidebar Seite"
+
+#~ msgid "Sidebar Homepage"
+#~ msgstr "Sidebar Homepage"
+
+#~ msgid "Seminars"
+#~ msgstr "Seminare"
+
+#~ msgid "Seminar"
+#~ msgstr "Seminar"
+
+#~ msgid "New Seminar"
+#~ msgstr "Neues Seminar"
+
+#~ msgid "All Seminars"
+#~ msgstr "Alle Seminare"
+
+#~ msgid "Publication"
+#~ msgstr "Veröffentlichung"
+
+#~ msgid "Show all >"
+#~ msgstr "Alle zeigen >"
+
+#~ msgid "by "
+#~ msgstr "von "
+
+#~ msgid "<strong>&lsaquo;</strong> Newer Articles"
+#~ msgstr "<strong>&lsaquo;</strong> Neuere Artikel"
+
+#~ msgid "Older Articles <strong>&rsaquo;</strong>"
+#~ msgstr "Ältere Artikel <strong>&rsaquo;</strong>"
+
+#~ msgid "Daily Archives - <strong>%s</strong>"
+#~ msgstr "Tagesarchiv - <strong>%s</strong>"
+
+#~ msgid "Monthly Archives - <strong>%s</strong>"
+#~ msgstr "Monatsarchiv - <strong>%s</strong>"
+
+#~ msgid "Yearly Archives - <strong>%s</strong>"
+#~ msgstr "Jahresarchiv - <strong>%s</strong>"
+
+#~ msgid "Author - <strong class=\"vcard\">%s</strong>"
+#~ msgstr "Autor - <strong class=\"vcard\">%s</strong>"
+
+#~ msgid "Read more &raquo;"
+#~ msgstr "Weiterlesen &raquo;"
+
+#~ msgid "Features"
+#~ msgstr "Features"
+
+#~ msgid "Feature"
+#~ msgstr "Feature"
+
+#~ msgid "Add new feature"
+#~ msgstr "Neues Feature hinzufügen"
+
+#~ msgid "New Feature"
+#~ msgstr "Neues Feature"
+
+#~ msgid "All Features"
+#~ msgstr "Alle Features"
+
+#~ msgid "Search Features"
+#~ msgstr "Features durchsuchen"
+
+#~ msgid "No features found in Trash"
+#~ msgstr "Keine Features im Papierkorb gefunden"
+
+#~ msgid "Team"
+#~ msgstr "Team"
+
+#~ msgid "Screens"
+#~ msgstr "Screens"
+
+#~ msgid "Screen"
+#~ msgstr "Screen"
+
+#~ msgid "New Screen"
+#~ msgstr "Neuer Screen"
+
+#~ msgid "All Screens"
+#~ msgstr "Alle Screens"
+
+#~ msgid "Search Screens"
+#~ msgstr "Screens durchsuchen"
+
+#~ msgid "Back to top"
+#~ msgstr "Zurück nach oben"
+
+#~ msgid "collections"
+#~ msgstr "Bildbestände"
+
+#~ msgid "Hide collections"
+#~ msgstr "Weniger Bildbestände zeigen"
+
+#~ msgid "Choices"
+#~ msgstr "Choices"
+
+#~ msgid "Choice"
+#~ msgstr "Choice"
+
+#~ msgid "New Choice"
+#~ msgstr "Neue Choice"
+
+#~ msgid "Pointers"
+#~ msgstr "Pointer"
+
+#~ msgid "Pointer"
+#~ msgstr "Pointer"
+
+#~ msgid "Add new pointer"
+#~ msgstr "Neuen Pointer hinzufügen"
+
+#~ msgid "New Pointer"
+#~ msgstr "Neuer Pointer"
+
+#~ msgid "All Pointers"
+#~ msgstr "Alle Pointer"
+
+#~ msgid "Search Pointers"
+#~ msgstr "Pointer durchsuchen"
+
+#~ msgid "Fact"
+#~ msgstr "Fact"
+
+#~ msgid "Hints"
+#~ msgstr "Hints"
+
+#~ msgid "Hint"
+#~ msgstr "Hint"
+
+#~ msgid "Add new hint"
+#~ msgstr "Neuen Hint hinzufügen"
+
+#~ msgid "No hints found in Trash"
+#~ msgstr "Keine Hints im Papierkorb gefunden"
+
+#~ msgid "Studios"
+#~ msgstr "Studios"
+
+#~ msgid "No studios found"
+#~ msgstr "Keine Studios gefunden"
+
+#~ msgid "Please change the selection in your filters."
+#~ msgstr "Bitte ändern Sie die Einstellungen in Ihrem Filter."
+
+#~ msgid "Parent Object"
+#~ msgstr "Übergeordnetes Gebäude"
+
+#~ msgid "Parent Object:"
+#~ msgstr "Übergeordnetes Gebäude:"
+
+#~ msgid "Edit Object"
+#~ msgstr "Gebäude bearbeiten"
+
+#~ msgid "Update Object"
+#~ msgstr "Gebäude aktualisieren"
+
+#~ msgid "New Object Name"
+#~ msgstr "Neuer Gebäudename"
+
+#~ msgid "Floors"
+#~ msgstr "Geschosse"
+
+#~ msgid "Floor"
+#~ msgstr "Geschoss"
+
+#~ msgid "Search Floors"
+#~ msgstr "Geschosse durchsuchen"
+
+#~ msgid "All Floors"
+#~ msgstr "Alle Geschosse"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Parent Status"
+#~ msgstr "Übergeordneter Status"
+
+#~ msgid "Parent Status:"
+#~ msgstr "Übergeordneter Status:"
+
+#~ msgid "Edit Status"
+#~ msgstr "Status bearbeiten"
+
+#~ msgid "Update Status"
+#~ msgstr "Status aktualisieren"
+
+#~ msgid "Add New Status"
+#~ msgstr "Neuen Status hinzufügen"
+
+#~ msgid "New Status Name"
+#~ msgstr "Neuer Statusname"
+
+#~ msgid "Studio"
+#~ msgstr "Studio"
+
+#~ msgid "Add new studio"
+#~ msgstr "Neues Studio hinzufügen"
+
+#~ msgid "New Studio"
+#~ msgstr "Neues Studio"
+
+#~ msgid "All Studios"
+#~ msgstr "Alle Studios"
+
+#~ msgid "Object:"
+#~ msgstr "Gebäude:"
+
+#~ msgid "Floor:"
+#~ msgstr "Geschoss:"
+
+#~ msgid "Size:"
+#~ msgstr "Größe:"
+
+#~ msgid "Logout"
+#~ msgstr "Abmelden"
+
+#~ msgid "Options saved"
+#~ msgstr "Optionen gesichert"
+
+#~ msgid "Public pages by ID (i.e. 10,12,29)"
+#~ msgstr "Öffentliche Seiten-ID (z.B. 10,12,29)"
+
+#~ msgid "Redirect"
+#~ msgstr "Weiterleitung"
+
+#~ msgid "Redirect after Login"
+#~ msgstr "Weiterleitung nach Login"
+
+#~ msgid "Save Options"
+#~ msgstr "Optionen speichern"
+
+#~ msgid "Sizes"
+#~ msgstr "Größen"
+
+#~ msgid "Parent Size"
+#~ msgstr "Übergeordnete Größe"
+
+#~ msgid "0 Comments"
+#~ msgstr "Keine Kommentare"
+
+#~ msgid "References"
+#~ msgstr "Referenzen"
+
+#~ msgid "Reference"
+#~ msgstr "Referenzen"
+
+#~ msgid "More Information »"
+#~ msgstr "Mehr Informationen »"
+
+#~ msgid "(Edit)"
+#~ msgstr "Bearbeiten "
+
+#, fuzzy
+#~ msgid "Referenzen"
+#~ msgstr "Referenz"
+
+#, fuzzy
+#~ msgid "Referenz"
+#~ msgstr "Referenz"
+
+#, fuzzy
+#~ msgid "Neue Referenz erstellen"
+#~ msgstr "Neue Referenz"
+
+#, fuzzy
+#~ msgid "Neue Referenz"
+#~ msgstr "Neue Referenz"
+
+#, fuzzy
+#~ msgid "Alle Referenzen"
+#~ msgstr "Alle Referenzen"
+
+#, fuzzy
+#~ msgid "Refernzen durchsuchen"
+#~ msgstr "Referenz"
+
+#~ msgid "Uppsss!"
+#~ msgstr "Uppsss!"
+
+#~ msgid "Tag Archives:"
+#~ msgstr "Archiv des Tags"
+
+#~ msgid "Daily Archives:"
+#~ msgstr "Tagesarchiv für"
+
+#~ msgid "Monthly Archives:"
+#~ msgstr "Monatsarchiv für"
+
+#~ msgid "F Y"
+#~ msgstr "F Y"
+
+#~ msgid "Yearly Archives:"
+#~ msgstr "Jahresarchiv für"
+
+#~ msgid "Y"
+#~ msgstr "Y"
+
+#~ msgid "Author Archives:"
+#~ msgstr "Autoren Archiv von"
+
+#~ msgid "Blog Archive"
+#~ msgstr "Blog Archiv"
+
+#~ msgid "Sorry, there are no entries in this archive."
+#~ msgstr "Leider sind in dieser Kategorie noch keine Einträge vorhanden."
+
+#~ msgid "<p>Read the rest of this page &raquo;</p>"
+#~ msgstr "<p>Lese den Rest der Seite &raquo;</p>"
+
+#~ msgid "Edit this entry."
+#~ msgstr "Bearbeiten."
+
+#~ msgid "j F. Y"
+#~ msgstr "j F. Y"
+
+#~ msgid "j.F Y"
+#~ msgstr "j.F Y"
+
+#~ msgid "Archive of articles tagged as"
+#~ msgstr "Archiv des Tags"
